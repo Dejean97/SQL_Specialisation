@@ -8,16 +8,16 @@ The specialisation consists of:
 - Distributed Computing with Spark SQL
 - SQL for Data Science Capstone Project
 
-### SQL for Data Science
+## SQL for Data Science
 
 
-### Data Wrangling, Analysis and AB Testing with SQL
+## Data Wrangling, Analysis and AB Testing with SQL
 
 
-### Distributed Computing with Spark SQL
+## Distributed Computing with Spark SQL
 
 
-### SQL for Data Science Capstone Project
+## SQL for Data Science Capstone Project
 
 
 
