@@ -1,6 +1,6 @@
 # SQL_Specialisation
 
-Tracking my journey through the 'Learn SQL Basics for Data Science' [Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science) offered by UC Davis on Coursera.
+Tracking my journey through the 'Learn SQL Basics for Data Science' [specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science) offered by UC Davis on Coursera.
 
 The specialisation consists of:
 - SQL for Data Science
